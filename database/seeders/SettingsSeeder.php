@@ -17,17 +17,17 @@ class SettingsSeeder extends Seeder
         //  Default Site Settings
 
         $settings = new Setting();
-        $settings->site_title_ar = "اسم الموقع";
-        $settings->site_title_en = "Site Title";
-        $settings->site_title_ch = "网站标题";
-        $settings->site_title_hi = "घटनास्थल शीर्षक";
-        $settings->site_title_es = "Título del sitio";
-        $settings->site_title_ru = "Заголовок сайта";
-        $settings->site_title_pt = "titulo do site";
-        $settings->site_title_fr = "Titre du site";
-        $settings->site_title_de = "Pagina Titel";
-        $settings->site_title_th = "ชื่อเว็บไซต์";
-        $settings->site_title_br = "titulo do site";
+        $settings->site_title_ar = "اغابي فور اونلاين";
+        $settings->site_title_en = "agape4online.com";
+        $settings->site_title_ch = "agape4online.com";
+        $settings->site_title_hi = "agape4online.com";
+        $settings->site_title_es = "agape4online.com";
+        $settings->site_title_ru = "agape4online.com";
+        $settings->site_title_pt = "agape4online.com";
+        $settings->site_title_fr = "agape4online.com";
+        $settings->site_title_de = "agape4online.com";
+        $settings->site_title_th = "agape4online.com";
+        $settings->site_title_br = "agape4online.com";
 
         $settings->site_desc_ar = "وصف الموقع الإلكتروني ونبذة قصيره عنه";
         $settings->site_desc_en = "Website description and some little information about it";
